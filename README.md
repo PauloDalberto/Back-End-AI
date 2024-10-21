@@ -14,5 +14,3 @@ Back-End-AI é a API que alimenta o aplicativo móvel [Front-End-AI](https://git
 - **TypeScript**: Linguagem com tipagem estática para segurança e manutenção do código.
 - **Zod**: Biblioteca de validação de esquemas e tipos, garantindo consistência nos dados.
 - **Google GeminiAI**: Inteligência artificial avançada para criar dietas personalizadas.
-
-## Como Rodar o Projeto
